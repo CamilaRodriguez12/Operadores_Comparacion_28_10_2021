@@ -1,7 +1,7 @@
 let myStyle = `font-family:arial;
                 color:white;
                 font-weight: 500;
-                border-radius:10px;
+                border-radius:15px;
                 background:#00A7AF;
                 padding: 5px;`;
                 
