@@ -4,9 +4,9 @@ let myStyle = `font-family:arial;
                 border-radius:15px;
                 background:#00A7AF;
                 padding: 5px;`;
-                
-let numero1 = 5;
-let numero2 = 9;
+
+let numero1 = prompt ( 'Ingrese un número para el primer dato' ) ;
+let numero2 = prompt ( 'Ingrese un número para el segúndo dato' ) ;
 
 function Tipos_de_Datos (numero1, numero2, myStyle){ 
     console.group("Funcion Tipos de Datos");
